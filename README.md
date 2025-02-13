@@ -1,6 +1,6 @@
 # Fine-Tuning a GPT Model with PEFT and LoRA  
 
-This project demonstrates how to fine-tune a **decoder-style GPT model** using **PEFT (Parameter-Efficient Fine-Tuning)** and **LoRA (Low-Rank Adaptation)**.  
+This project demonstrates how to fine-tune a **decoder-style GPT model** using **PEFT (Parameter-Efficient Fine-Tuning)** called **LoRA (Low-Rank Adaptation)**.  
 The model used for fine-tuning is **BigScience/BLOOM-7B1**, and the dataset consists of **English quotes from Abirate/english_quotes**.  
 The guide covers the fundamentals of **LoRA fine-tuning** and how to upload the trained model to **Hugging Face Hub** for easy sharing and deployment.  
 
